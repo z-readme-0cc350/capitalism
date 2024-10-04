@@ -1,2 +1,86 @@
-# capitalism
-Why Advocates of Freed Markets Should Embrace "Anti-Capitalism"
+# Why Advocates of Freed Markets Should Embrace "Anti-Capitalism"
+
+# Por qué los defensores de los mercados libres deberían abrazar el "anti-capitalismo"
+**Gary Chartier**  
+22–28 minutos
+
+Los defensores de los mercados libres tienen buenas razones para identificar su posición como una especie de "anti-capitalismo".[1] Para explicar por qué, distingo tres significados potenciales de "capitalismo" antes de sugerir que las personas comprometidas con los mercados libres deberían oponerse al capitalismo en mis segundo y tercer sentidos. Luego, ofrezco algunas razones para usar "capitalismo" como una etiqueta para algunos de los arreglos sociales a los que los defensores del mercado libre deberían oponerse.
+
+## Tres sentidos de "capitalismo"
+
+Hay al menos tres sentidos distinguibles de "capitalismo":[2]
+
+- **Capitalismo-1**  
+  un sistema económico que presenta derechos de propiedad e intercambios voluntarios de bienes y servicios.
+  
+- **Capitalismo-2**  
+  un sistema económico que presenta una relación simbiótica entre grandes empresas y el gobierno.
+  
+- **Capitalismo-3**  
+  el dominio —de lugares de trabajo, la sociedad y (si existe) el estado— por parte de capitalistas (es decir, por un número relativamente pequeño de personas que controlan la riqueza invertible y los medios de producción).[3]
+
+El capitalismo-1 es simplemente un mercado libre; así que si "anti-capitalismo" significara oposición al capitalismo-1, el "anti-capitalismo de mercado libre" sería un oxímoron. Pero los defensores del anti-capitalismo de mercado libre no están opuestos al capitalismo-1; en cambio, objetan ya sea al capitalismo-2 o a ambos, capitalismo-2 y capitalismo-3.[4]
+
+Muchas personas parecen operar con definiciones que combinan elementos de estos sentidos distintos de "capitalismo". Tanto los entusiastas como los críticos del capitalismo parecen, a menudo, referirse a él como "un sistema económico que presenta derechos de propiedad personal e intercambios voluntarios de bienes y servicios —y, por lo tanto, predeciblemente, también dominio por parte de capitalistas". Creo que hay buenas razones para desafiar la suposición de que el dominio por parte de un pequeño número de personas adineradas es, en algún sentido, una característica probable de un mercado libre. Tal dominio, sugiero, es probable solo cuando la fuerza y el fraude impiden la libertad económica.
+
+## Por qué el capitalismo-2 y el capitalismo-3 son inconsistentes con los principios del mercado libre
+
+### A. Introducción
+
+El capitalismo-2 y el capitalismo-3 son ambos inconsistentes con los principios del mercado libre: el capitalismo-2 porque implica interferencia directa con la libertad del mercado, y el capitalismo-3 porque depende de tal interferencia —tanto pasada como en curso— y porque va en contra del compromiso general con la libertad que subyace al apoyo a la libertad de mercado en particular.
+
+### B. El capitalismo-2 implica interferencia directa con la libertad del mercado
+
+El capitalismo-2 es claramente inconsistente con el capitalismo-1, y por lo tanto con un mercado libre. Bajo el capitalismo-2, los políticos interfieren con los derechos de propiedad personal y los intercambios voluntarios de bienes y servicios para enriquecerse a sí mismos y a sus electores, y las grandes empresas influyen en los políticos para fomentar la interferencia con los derechos de propiedad personal y los intercambios voluntarios con el fin de enriquecerse a sí mismos y a sus aliados.
+
+### C. El capitalismo-3 depende de la interferencia pasada y en curso con la libertad del mercado
+
+Hay tres formas en que el capitalismo-3 podría entenderse como inconsistente con el capitalismo-1, y por lo tanto con un mercado libre. La primera depende de una visión plausible, aunque discutible, del funcionamiento de los mercados. Llamemos a esta visión "Los mercados socavan el privilegio" (MUP). Según MUP, en un mercado libre, en ausencia de los tipos de privilegios otorgados a los beneficiarios (generalmente bien conectados) del poder estatal bajo el capitalismo-2, la riqueza estaría ampliamente distribuida y las grandes empresas jerárquicas resultarían ineficientes y no sobrevivirían.
+
+Tanto porque a la mayoría de las personas no les gusta trabajar en entornos laborales jerárquicos como porque organizaciones más planas y ágiles serían mucho más viables que las grandes y torpes sin el apoyo del gobierno a las grandes empresas, la mayoría de las personas en un mercado libre trabajarían como contratistas independientes o en asociaciones o cooperativas. Habría muchas menos grandes empresas, y aquellas que aún existieran probablemente no serían tan grandes como los enormes corporativos de hoy, y la riqueza social estaría ampliamente dispersa entre un gran número de pequeñas empresas.
+
+Otros tipos de privilegios para los bien conectados políticamente que tienden a hacer y mantener a las personas pobres —piensa en las licencias ocupacionales y las leyes de zonificación, por ejemplo— estarían ausentes en un mercado libre.[5] Así, las personas comunes, incluso aquellas en la parte inferior de la escala económica, tendrían más probabilidades de disfrutar de un nivel de seguridad económica que les permitiría optar por no trabajar en entornos laborales desagradables, incluidas las grandes empresas. Y dado que una sociedad libre no tendría un gobierno con el supuesto derecho, y mucho menos la capacidad, de interferir con los derechos de propiedad personal y los intercambios voluntarios, quienes ocupan la parte superior de la escala social en el capitalismo-3 no podrían manipular a los políticos para obtener y mantener riqueza y poder en un mercado libre, por lo que la propiedad de los medios de producción no estaría concentrada en unas pocas manos.
+
+Además de la interferencia continua con la libertad del mercado, MUP sugiere que el capitalismo-3 no sería posible sin actos pasados de injusticia a gran escala. Y hay amplia evidencia de interferencia masiva con los derechos de propiedad y la libertad del mercado, interferencia que ha llevado a la empobrecimiento de enormes cantidades de personas, en Inglaterra, los Estados Unidos y en otros lugares.[6] Por lo tanto, los defensores del mercado libre deberían oponerse al capitalismo-3 porque los capitalistas solo pueden gobernar en virtud de violaciones a gran escala, sancionadas por el estado, de derechos de propiedad legítimos.
+
+### D. El apoyo al capitalismo-3 es inconsistente con el apoyo a la lógica subyacente del apoyo a la libertad
+
+El capitalismo-3 podría entenderse como inconsistente con el capitalismo-1 a la luz de la lógica subyacente de apoyo a los mercados libres. Sin duda, algunas personas favorecen los derechos de propiedad personal y los intercambios voluntarios —capitalismo-1— por su propio bien, sin intentar integrar el apoyo al capitalismo-1 en una comprensión más amplia de la vida humana y la interacción social. Sin embargo, para otros, el apoyo al capitalismo-1 refleja un principio subyacente de respeto por la autonomía y dignidad personal. Aquellos que adoptan este punto de vista —defensores de lo que llamaré Libertad Integral (CL)— quieren ver a las personas libres para desarrollarse y florecer como elijan, de acuerdo con sus propias preferencias (siempre que no agredan a otros). Los proponentes de CL valoran no solo la libertad de agresiones, sino también la libertad de la presión social que las personas pueden ejercer porque ellas u otros han participado o se han beneficiado de agresiones, así como la libertad de presiones sociales no agresivas pero irrazonables —quizás mezquinas, arbitrarias— que restringen las opciones de las personas y su capacidad de moldear sus vidas como deseen.
+
+Valorar diferentes tipos de libertad no es en absoluto lo mismo que aprobar los mismos tipos de remedios para los ataques a estas diferentes formas de libertad. Si bien la mayoría de los defensores de CL no son pacifistas, no quieren ver los argumentos resueltos a punta de pistola; se oponen inequívocamente a la violencia agresiva. Así que no suponen que las indignidades mezquinas justifiquen respuestas violentas. Al mismo tiempo, sin embargo, reconocen que no tiene sentido favorecer la libertad como un valor general mientras se trata como trivial los ataques no violentos a la libertad de las personas. (Por lo tanto, favorecen una serie de respuestas no violentas a tales ataques, incluida la vergüenza pública, las listas negras, las huelgas, las protestas, la retención de certificaciones voluntarias y los boicots.)[7]
+
+CL proporciona, entonces, una razón adicional para oponerse al capitalismo-3. La mayoría de las personas comprometidas con CL encuentran MUP muy plausible, y por lo tanto estarán inclinadas a pensar en el capitalismo-3 como un producto del capitalismo-2. Pero la comprensión de la libertad como un valor multidimensional que puede ser objeto de ataques tanto violentos como no violentos proporciona buenas razones para oponerse al capitalismo-3 incluso si —lo que es muy poco probable— se produjera en completo aislamiento del capitalismo-2.
+
+## Por qué los defensores del mercado libre deberían llamar al sistema que oponen "capitalismo"
+
+Los proponentes de los mercados libres, y por lo tanto del capitalismo-1, podrían referirse, al menos, al capitalismo-2 como "capitalismo estatal", "capitalismo corporativo" o "corporativismo". Pero "las palabras son conocidas por la compañía que mantienen";[8] así que hay buenas razones para que los defensores de los mercados libres, especialmente aquellos comprometidos con CL, identifiquen lo que se oponen simplemente como "capitalismo".
+
+1. **Para enfatizar la indeseabilidad específica del capitalismo-3**  
+   Etiquetas como "capitalismo de estado" y "corporativismo" capturan lo que está mal con el capitalismo-2, pero no abordan completamente el problema del capitalismo-3. Incluso si, como parece plausible, el dominio de los capitalistas requiere una explicación política —una explicación en términos de la mala conducta independiente de los políticos y la manipulación de los políticos por parte de los líderes empresariales— vale la pena objetar el dominio de las grandes empresas, además de desafiar la simbiosis entre las empresas y el gobierno. En la medida en que aquellos que poseen y dirigen grandes empresas a menudo son etiquetados como "capitalistas", identificar lo que los defensores de la libertad oponen como "capitalismo" ayuda a resaltar adecuadamente su crítica del capitalismo-3.
+
+2. **Para diferenciar a los defensores de los mercados libres de los entusiastas vulgares del mercado**  
+   La bandera del "capitalismo" a menudo es ondeada con entusiasmo por personas que parecen confundir el apoyo a los mercados libres con el apoyo al capitalismo-2 y al capitalismo-3, tal vez ignorando la realidad o la naturaleza problemática de ambos, o incluso celebrando el capitalismo-3 como apropiado en vista del supuesto carácter admirable de los titanes empresariales. Oponerse al "capitalismo" ayuda a garantizar que los defensores de los mercados libres no sean confundidos con estos vulgares defensores de la libertad para la élite del poder.
+
+3. **Para reclamar el "socialismo" para los radicales del mercado libre**  
+   "Capitalismo" y "socialismo" suelen verse como un par de opuestos. Pero fue precisamente la etiqueta "socialista" la que un radical defensor de los mercados libres, Benjamin Tucker, adoptó en la época en que estos términos se debatían y definían apasionadamente. Tucker claramente no veía conflicto entre su intenso compromiso con los mercados libres y su membresía en la Primera Internacional. Esto se debe a que entendía el socialismo como una cuestión de liberar a los trabajadores de la opresión por parte de los aristócratas y ejecutivos empresariales, y creía plausiblemente que acabar con los privilegios conferidos a las élites económicas por el estado sería la forma más efectiva —y más segura— de lograr el objetivo liberador del socialismo. Oponerse al capitalismo ayuda a subrayar el importante lugar de radicales como Tucker en el linaje del movimiento contemporáneo por la libertad y proporciona a los defensores actuales de la libertad una razón persuasiva para recuperar la etiqueta socialista de los socialistas estatistas. (Esto es especialmente apropiado porque los defensores de la libertad creen que la sociedad —personas conectadas que cooperan libre y voluntariamente—, en lugar del estado, debería verse como la fuente de soluciones a los problemas humanos. Por lo tanto, se les puede considerar razonablemente como defensores del socialismo, no como una forma de estatismo, sino como una alternativa al estatismo.) Adoptar el anti-capitalismo subraya el hecho de que los mercados libres ofrecen una forma de alcanzar los objetivos socialistas —fomentar el empoderamiento de los trabajadores y la amplia dispersión de la propiedad y el control sobre los medios de producción— utilizando medios de mercado.
+
+4. **Para expresar solidaridad con los trabajadores**  
+   Si MUP (Markets Undermine Privilege, los mercados socavan el privilegio) es correcto, la capacidad de las grandes empresas —el "capital"— para maximizar la satisfacción de sus preferencias más plenamente de lo que los trabajadores pueden maximizar la satisfacción de las suyas es una función de la simbiosis entre las empresas y el estado que es inconsistente con los principios del mercado libre. Y, como cuestión de apoyo a CL (Libertad Integral), a menudo hay una razón adicional para ponerse del lado de los trabajadores cuando son maltratados, incluso de manera no agresiva. En la medida en que los jefes a los que se oponen los trabajadores a menudo son llamados "capitalistas", y que el "anti-capitalismo" parece una etiqueta natural para su oposición a estos jefes, y en la medida en que los mercados libres —a diferencia del capitalismo-2 y el capitalismo-3— aumentarían dramáticamente las oportunidades para que los trabajadores den forma a sus propias vidas y experimenten una mayor prosperidad y seguridad económica, abrazar el "anti-capitalismo" es una forma de señalar claramente la solidaridad con los trabajadores.
+
+5. **Para identificarse con las preocupaciones legítimas del movimiento anti-capitalista global**  
+   Adoptar el "anti-capitalismo" también es una forma, más ampliamente, de identificarse con las personas comunes de todo el mundo que expresan su oposición al imperialismo, al creciente poder de las corporaciones multinacionales en sus vidas y a su creciente vulnerabilidad económica nombrando a su enemigo como "capitalismo". Quizás algunos de ellos respalden relatos teóricos inexactos de sus circunstancias según los cuales debería entenderse que es un sistema de mercado libre —capitalismo-1— el que está detrás de lo que se oponen. Pero para muchos de ellos, oponerse al "capitalismo" no significa realmente oponerse a los mercados libres; significa usar una etiqueta conveniente proporcionada por críticos sociales que están dispuestos —como los defensores de la libertad demasiado a menudo se han negado lamentablemente a hacer— a estar con ellos desafiando las fuerzas que parecen empeñadas en deformar sus vidas y las de otros. Los defensores de la libertad tienen una oportunidad de oro para construir un terreno común con estas personas, coincidiendo con ellas en cuanto a la injusticia de muchas de las situaciones que enfrentan, al tiempo que proporcionan una explicación basada en la libertad de esas situaciones y un remedio basado en la libertad para los problemas que implican.
+
+## Conclusión
+
+Hace treinta y cinco años, el gran héroe libertario Karl Hess escribió: “He perdido la fe en el capitalismo” y “Resisto a esta nación capitalista-estado”, observando que había “abandonado la religión del capitalismo”.
+
+Distinguir tres sentidos de "capitalismo" —orden de mercado, asociación entre empresas y gobierno, y dominio por parte de los capitalistas— ayuda a dejar en claro por qué alguien, como Hess, podría estar comprometido de manera consistente con la libertad al tiempo que expresa una apasionada oposición a algo llamado "capitalismo".
+
+Tiene sentido que los defensores del mercado libre se opongan tanto a la interferencia en la libertad del mercado por parte de políticos y líderes empresariales, como al dominio social (agresivo o no) de los líderes empresariales. Y tiene sentido que llamen a lo que se oponen "capitalismo". Hacerlo llama la atención sobre las raíces radicales del movimiento por la libertad, enfatiza el valor de entender la sociedad como una alternativa al estado, subraya el hecho de que los defensores de la libertad se oponen tanto a las restricciones no agresivas como a las agresivas sobre la libertad, asegura que los defensores de la libertad no sean confundidos con personas que usan la retórica de mercado para apoyar un statu quo injusto, y expresa solidaridad entre los defensores de los mercados libres y los trabajadores —así como las personas comunes de todo el mundo que usan "capitalismo" como una etiqueta abreviada para el sistema mundial que limita su libertad y obstaculiza sus vidas.
+
+Los defensores del mercado libre deberían abrazar el "anti-capitalismo" para encapsular y resaltar su compromiso total con la libertad y su rechazo a las falsas alternativas que utilizan el discurso de la libertad para ocultar la aceptación de la exclusión, la subordinación y la privación.
+
+
+
+
+*Extraído de [https://www.filmsforaction.org/news/why-advocates-of-freed-markets-should-embrace-anticapitalism/](https://www.filmsforaction.org/news/why-advocates-of-freed-markets-should-embrace-anticapitalism/)*
